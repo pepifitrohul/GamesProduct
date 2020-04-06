@@ -1,0 +1,221 @@
+{
+    "product": [
+        {
+            "id" : 1,
+            "name" : "Mobile Legends: Bang Bang",
+            "release_date" : "11-07-2016",
+            "category" : [
+                {
+                    "id" : 2,
+                    "name" : "Multiplayer"
+                }
+            ],
+            "platform" : [
+                {
+                    "id" : 1,
+                    "name" : "Android"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Ios"
+                }
+            ],
+            "image" : "https://scontent.fcgk6-1.fna.fbcdn.net/v/t1.0-9/14441102_1171690979556867_6240899913474008184_n.png?_nc_cat=103&_nc_sid=dd9801&_nc_ohc=NmT92ciD54MAX_H89mG&_nc_ht=scontent.fcgk6-1.fna&oh=f909bf6bd7877eb107dd17efc7637409&oe=5EAF4ED7", 
+            "price" : 120000,
+            "description" : "Mobile Legends: Bang Bang is an MOBA game designed for mobile phones. The two opposing teams struggle to reach and destroy the enemy base while maintaining their own base to control the path, three paths known as top, middle and bottom, which connect the bases",
+            "developer" : [
+                {
+                    "id" : 2,
+                    "name" : "Moonton",
+                    "email" : "hr@moonton.com",
+                    "address" : "11th Floor, Hongmao Center, No. 2138 Wanyuan Road, Minhang District, Shanghai", 
+                    "phone" : "16046748-1",
+                    "image" : "https://twitter.com/MoontonGames/photo",
+                    "description" : "Choose Moonton to start your career. There is a perfect one-to-one mentor and training system to let you grow quickly. Here, we encourage collision of thinking and look forward to your unique insights and opinions."
+                }
+            ],
+            "publisher" : [
+                {
+                    "id" : 1,
+                    "name" : "Moonton",
+                    "email" : "hr@moonton.com",
+                    "image" : "https://twitter.com/MoontonGames/photo",
+                    "address" : "11th Floor, Hongmao Center, No. 2138 Wanyuan Road, Minhang District, Shanghai" 
+                }
+            ]
+           
+        },
+        {
+            "id" : 2,
+            "name" : "Tomb Raider",
+            "release_date" : "5-03-2013",
+            "category" : [
+                {
+                    "id" : 2,
+                    "name" : "Multiplayer"
+                }
+            ],
+            "platform" : [
+                {
+                    "id" : 5,
+                    "name" : "Linux"
+                }
+            ],
+            "image" : "https://steamcdn-a.akamaihd.net/steam/apps/203160/header.jpg?t=1584650700", 
+            "price" : 90000,
+            "description" : "Tomb Raider explores the intense origin story of Lara Croft and her ascent from a young woman to a hardened survivor.",
+            "developer" : [
+                {
+                    "id" : 3,
+                    "name" : "Square Enix",
+                    "email" : "Square@Enix.com",
+                    "address" : "Tokyo, Jepang",
+                    "site" : "www.square-enix.com",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/a/af/Square_Enix_logo.svg",
+                    "description" : "Square Enix (Bahasa Jepang: スクウェア・エニックス Sukuuea Enikkusu) adalah sebuah produsen permainan video dan manga Jepang. Square Enix sangat dikenal untuk seri permainan role-playing gamenya, termasuk seri Final Fantasy dan seri Dragon Quest (awalnya dikenal dengan Dragon Warrior di Amerika Utara)"
+                }
+            ],
+            "publisher" : [
+                {
+                    "id" : 2,
+                    "name" : "Square Enix",
+                    "email" : "Square@Enix.com",
+                    "image" : "https://upload.wikimedia.org/wikipedia/commons/a/af/Square_Enix_logo.svg",
+                    "address" : "Tokyo, Jepang" 
+                }
+            ]
+           
+        },
+        {
+            "id" : 3,
+            "name" : "MONSTER HUNTER: WORLD",
+            "release_date" : "9-08-2018",
+            "category" : [
+                {
+                    "id" : 2,
+                    "name" : "Multiplayer"
+                }
+            ],
+            "platform" : [
+                {
+                    "id" : 3,
+                    "name" : "Windows"
+                }
+            ],
+            "image" : "", 
+            "price" : 34000,
+            "description" : "Welcome to a new world! In Monster Hunter: World, the latest installment in the series, you can enjoy the ultimate hunting experience, using everything at your disposal to hunt monsters in a new world teeming with surprises and excitement.",
+            "developer" : [
+                {
+                    "id" : 1,
+                    "name" : "Capcom",
+                    "email" : "Cap@Com.com",
+                    "address" : "Osaka, Prefektur Osaka, Jepang",
+                    "site" : "www.capcom.com",
+                    "image" : "http://www.capcom.co.jp/img_corporate/header_logo.png",
+                    "description" : "Developer and maker of several video game software based in Osaka, Japan."
+                }
+            ],
+            "publisher" : [
+                {
+                    "id" : 3,
+                    "name" : "Capcom",
+                    "email" : "Cap@Com.com",
+                    "image" : "http://www.capcom.co.jp/img_corporate/header_logo.png",
+                    "address" : "Osaka, Prefektur Osaka, Jepang"
+                }
+            ]
+           
+        },
+        {
+            "id" : 4,
+            "name" : "Divinity: Original Sin 2 - Definitive Edition",
+            "release_date" : "14-09-2017",
+            "category" : [
+                {
+                    "id" : 2,
+                    "name" : "Multiplayer"
+                }
+            ],
+            "platform" : [
+                {
+                    "id" : 3,
+                    "name" : "Windows"
+                },
+                {
+                    "id" : 4,
+                    "name" : "MacOS"
+                }
+            ],
+            "image" : "https://steamcdn-a.akamaihd.net/steam/apps/435150/header.jpg?t=1581362845", 
+            "price" : 335999,
+            "description" : "The eagerly anticipated sequel to the award-winning RPG. Gather your party. Master deep, tactical combat. Join up to 3 other players - but know that only one of you will have the chance to become a God.",
+            "developer" : [
+                {
+                    "id" : 4,
+                    "name" : "Larian Studios",
+                    "email" : "larian@studios.com",
+                    "address" : "Oudenaarde, Belgia",
+                    "site" : "www.larian.com",
+                    "image" : "https://en.wikipedia.org/wiki/Larian_Studios#/media/File:Larian_Studios_Logo_2012.png",
+                    "description" : "Belgian video game developer founded in 1996 by Swen Vincke. It focuses on developing role playing video games and has previously worked on educational games and a number of casino games"
+                }
+            ],
+            "publisher" : [
+                {
+                    "id" : 4,
+                    "name" : "Larian Studios",
+                    "email" : "larian@studios.com",
+                    "image" : "https://en.wikipedia.org/wiki/Larian_Studios#/media/File:Larian_Studios_Logo_2012.png",
+                    "address" : "Oudenaarde, Belgia"
+                }
+            ]
+           
+        },
+        {
+            "id" : 5,
+            "name" : "BanG Dream! Girls Band Party!",
+            "release_date" : "16 Maret 2017",
+            "category" : [
+                {
+                    "id" : 1,
+                    "name" : "Single-Player"
+                }
+            ],
+            "platform" : [
+                {
+                    "id" : 1,
+                    "name" : "Android"
+                },
+                {
+                    "id" : 2,
+                    "name" : "Ios"
+                }
+            ],
+            "image" : "https://lh3.googleusercontent.com/-NaYji2NZrVdalmPfW14eDFAo0e0mtuQ2kcQ409Q79XGTFoW25rS7OSV2BgjaomMXQ=s180-rw", 
+            "price" : 90000,
+            "description" : "BanG Dream! is a next generation girls band project that links animated characters with real life performances. It is a media franchise that includes Anime, Games and Live performances. Voice actors from Poppin Party & Roselia formed real bands, and are actively performing live. A third live band, RAISE A SUILEN, was formed and are in the midst of activities as well.",
+            "developer" : [
+                {
+                    "id" : 5,
+                    "name" : "Bushiroad",
+                    "email" : " bi_hr_application_corporate@bushiroad.com",
+                    "address" : "Tokyo, Jepang",
+                    "site" : "www.en.bushiroad.com",
+                    "image" : "https://en.cf-vanguard.com/wordpress/wp-content/uploads/Bushiroad_Logo_Horizontal-011.png",
+                    "description" : "Japanese entertainment company that manufactures collectable card and trading card games, mobile application and game publishers, promotional items and many other places, founded in 2007 by Takaaki Kidani and headquartered in Tokyo"
+                }
+            ],
+            "publisher" : [
+                {
+                    "id" : 5,
+                    "name" : "Bushiroad",
+                    "email" : " bi_hr_application_corporate@bushiroad.com",
+                    "image" : "https://en.cf-vanguard.com/wordpress/wp-content/uploads/Bushiroad_Logo_Horizontal-011.png",
+                    "address" : "Tokyo, Jepang"
+                }
+            ]
+           
+        }
+    ]
+}
